@@ -1,0 +1,31 @@
+{
+  "experiment_data": {
+    "4": {
+      "real_execution_time": "2.535816",
+      "found_after": "0",
+      "total_time": "3969.0345591250007",
+      "p_level": "3",
+      "no_of_colors_allowed": "2",
+      "no_of_colors_actually_used": "3",
+      "remapped_coloring": "[2, 0, 0, 1]"
+    },
+    "5": {
+      "real_execution_time": "2.825212",
+      "found_after": "1",
+      "total_time": "7992.734465834001",
+      "p_level": "3",
+      "no_of_colors_allowed": "3",
+      "no_of_colors_actually_used": "5",
+      "remapped_coloring": "[1, 4, 3, 2, 0]"
+    },
+    "6": {
+      "real_execution_time": "3.535376",
+      "found_after": "0",
+      "total_time": "1235.2460073750044",
+      "p_level": "5",
+      "no_of_colors_allowed": "3",
+      "no_of_colors_actually_used": "5",
+      "remapped_coloring": "[0, 3, 2, 4, 0, 1]"
+    }
+  }
+}
