@@ -1,49 +1,13 @@
 {
   "experiment_data": {
-    "4": {
-      "real_execution_time": "2.535816",
-      "found_after": "0",
-      "total_time": "3969.0345591250007",
+    "4_1": {
+      "real_execution_time": "9.399023",
+      "found_after": "1",
+      "total_time": "1403.5333899999969",
       "p_level": "3",
-      "no_of_colors_allowed": "2",
+      "no_of_colors_allowed": "4",
       "no_of_colors_actually_used": "3",
       "remapped_coloring": "[2, 0, 0, 1]"
-    },
-    "5": {
-      "real_execution_time": "2.825212",
-      "found_after": "1",
-      "total_time": "7992.734465834001",
-      "p_level": "3",
-      "no_of_colors_allowed": "3",
-      "no_of_colors_actually_used": "5",
-      "remapped_coloring": "[1, 4, 3, 2, 0]"
-    },
-    "6": {
-      "real_execution_time": "3.535376",
-      "found_after": "0",
-      "total_time": "1235.2460073750044",
-      "p_level": "5",
-      "no_of_colors_allowed": "3",
-      "no_of_colors_actually_used": "5",
-      "remapped_coloring": "[0, 3, 2, 4, 0, 1]"
-    },
-    "7": {
-      "real_execution_time": "4.565395",
-      "found_after": "1",
-      "total_time": "3695.9387451669973",
-      "p_level": "5",
-      "no_of_colors_allowed": "4",
-      "no_of_colors_actually_used": "6",
-      "remapped_coloring": "[4, 5, 0, 2, 1, 1, 3]"
-    },
-    "8": {
-      "real_execution_time": "5.747234",
-      "found_after": "1",
-      "total_time": "3890.004010167002",
-      "p_level": "5",
-      "no_of_colors_allowed": "4",
-      "no_of_colors_actually_used": "7",
-      "remapped_coloring": "[1, 5, 3, 6, 1, 2, 4, 0]"
     }
   }
 }
